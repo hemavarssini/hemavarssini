@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @hemavarssini
+- 👀 I’m interested in understanding the ethics of using LLMs
+- 🌱 I’m currently learning to create an application for my thesis
